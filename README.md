@@ -4,4 +4,4 @@
 - Documented the branching+merging+[pull request strategy](https://www.atlassian.com/git/tutorials/making-a-pull-request) and trained new team members for installation,configuration of git workflow on their local  
 - Onboarded teams to Bitbucket based development model from traditional SVN model
 
-To do - Enforce commit policies, Block the commits on build failure
+To do - Enforce commit policies, Block the commits on build failure, Update post on applying machine learning for finding bugs in software using commimt messages.
