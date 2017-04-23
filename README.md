@@ -7,3 +7,7 @@
 - [Used git commit messages to find more buggier files in codebase](https://www.linkedin.com/pulse/predicting-bugs-your-code-darshan-deshmukh) and used commit messages to visualize the productivity of development teams e.g. [Commits done for actual feature development Vs. Commits done for fixing the bugs](http://darshandeshmukh.blogspot.in/2017/02/finding-percentage-distribution-for.html)
 
 To do - Block the commits on build failure, 
+
+
+Resources - 
+- [Pro Git](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA6euH2brTAhVJOI8KHVI8AQkQFggkMAA&url=https%3A%2F%2Fgit-scm.com%2Fbook&usg=AFQjCNGU4DTKIIYo6sTRgkq-xIvS9uVliw&sig2=SyYZgNq6DVF4ODbDaIxkIQ)
