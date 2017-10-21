@@ -16,3 +16,6 @@ Resources -
 - [Pull request workflow](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 
 - [Gerrit workflow](https://docs.openstack.org/infra/manual/developers.html)
+
+- [SCM Terminology](http://www.altium.com/documentation/17.1/display/ADES/((Glossary))_AD)
+
