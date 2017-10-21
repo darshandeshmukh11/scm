@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1498051777980" ID="ID_63766585" MODIFIED="1499534215876" TEXT="SCM">
+<node CREATED="1498051777980" ID="ID_63766585" MODIFIED="1508601057961" TEXT="SCM">
 <font NAME="Verdana" SIZE="12"/>
 <node CREATED="1498052653946" ID="ID_88499775" MODIFIED="1499534222655" POSITION="right" TEXT="Code migration">
 <font NAME="Verdana" SIZE="12"/>
@@ -11,6 +11,9 @@
 <node CREATED="1499534293439" ID="ID_1396673048" MODIFIED="1499534301387" TEXT="Pull request workflow"/>
 <node CREATED="1499534302073" ID="ID_1220872418" MODIFIED="1499534305506" TEXT="Gerrit"/>
 </node>
+<node CREATED="1508602774599" ID="ID_214974241" MODIFIED="1508602792581" POSITION="left" TEXT="Self on-boarding for teams"/>
+<node CREATED="1508602829025" ID="ID_600770784" MODIFIED="1508602912054" POSITION="left" TEXT="Best practices branching and merging strategies"/>
 <node CREATED="1499534343479" ID="ID_155341920" MODIFIED="1499534345957" POSITION="left" TEXT="Hooks"/>
+<node CREATED="1508602993907" ID="ID_1902438335" MODIFIED="1508603004859" POSITION="left" TEXT="Automated access management"/>
 </node>
 </map>
