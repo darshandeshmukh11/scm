@@ -19,3 +19,5 @@ Resources -
 
 - [SCM Terminology](http://www.altium.com/documentation/17.1/display/ADES/((Glossary))_AD)
 
+- [A Diff Tool to make your life easy KDiff3](http://kdiff3.sourceforge.net)
+
