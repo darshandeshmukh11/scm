@@ -1,5 +1,11 @@
 #### Source Control Management
 ![](/images/SCM.png?raw=true)
+
+#### Typical challnges/problems faced with SVN OR any traditional SCMs
+- Branching is too costly in SVN (doesnt provide the flexibility to create-experiment-destroy the branches on the fly)
+- If binaries are checked in as a part of source code it results in a huge repository size and ultimately larger build time for your code
+- Parallel development is quite challanging with centralised source control mamagement systems.
+
 - [Migrated code repositories in TFS to git with all history intact](http://darshandeshmukh.blogspot.in/2016/09/migrating-code-base-from-tfs-to-git.html)
 - [Onboarded several teams from SVN to git with all tags,branches and release history intact](https://git-scm.com/book/en/v2/Git-and-Other-Systems-Migrating-to-Git) 
 - Documented the branching+merging+[pull request strategy](https://www.atlassian.com/git/tutorials/making-a-pull-request) and trained new team members for installation,configuration of git workflow on their local  
