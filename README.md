@@ -13,8 +13,8 @@
 - Onboarded teams to Bitbucket based development model from traditional SVN model
 - [Enforced git commit messages policies](https://git-scm.com/book/en/v2/Customizing-Git-An-Example-Git-Enforced-Policy) for standardizing the process across all teams to maintain clean history for all the projects.
 - [Used git commit messages to find more buggier files in codebase](https://www.linkedin.com/pulse/predicting-bugs-your-code-darshan-deshmukh) and used commit messages to visualize the productivity of development teams e.g. [Commits done for actual feature development Vs. Commits done for fixing the bugs](http://darshandeshmukh.blogspot.in/2017/02/finding-percentage-distribution-for.html)
+- Trained multiple teams on forking based model for parallel code development and continuous code review cycle.
 
-To do - Block the commits on build failure, 
 
 
 Resources - 
