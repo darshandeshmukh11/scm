@@ -27,7 +27,7 @@
 
 
 
-Resources - 
+#### References - 
 - [Pro Git](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA6euH2brTAhVJOI8KHVI8AQkQFggkMAA&url=https%3A%2F%2Fgit-scm.com%2Fbook&usg=AFQjCNGU4DTKIIYo6sTRgkq-xIvS9uVliw&sig2=SyYZgNq6DVF4ODbDaIxkIQ)
 
 - [Pull request workflow](https://www.atlassian.com/git/tutorials/making-a-pull-request)
