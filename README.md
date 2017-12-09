@@ -1,6 +1,16 @@
 #### Source Control Management
 ![](/images/SCM.png?raw=true)
 
+
+
+### Work experience 
+- Code migration to Git from SVN, TFS, Gitlab (with commit history)
+- Self on-boarding for new and existing users using active directory
+- Documented best practices for parallel development and trained teams to on board for code review model using forking and pull requests.  
+- Defined and integrated git commit messages policies using hooks to maintain clean history
+- Created a Wiki page for documenting tools FAQs and common issues with their solution.
+
+
 #### Typical challnges/problems faced with SVN OR any traditional SCMs
 - Branching is too costly in SVN (doesnt provide the flexibility to create-experiment-destroy the branches on the fly)
 - If binaries are checked in as a part of source code it results in a huge repository size and ultimately larger build time for your code
