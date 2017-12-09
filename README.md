@@ -1,4 +1,4 @@
-#### Source Control Management
+### Source Control Management
 ![](/images/SCM.png?raw=true)
 
 
